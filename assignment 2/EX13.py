@@ -1,0 +1,1 @@
+print('Wlliam Shakespeare once said,"Listen to many, speak to few."')
